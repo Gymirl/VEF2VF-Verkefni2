@@ -3,3 +3,10 @@ h1,h2 {color:blue;
 .error {
     color: red;
 }
+.haus,.footer{
+    border: 1px;
+    color: aqua;
+}
+nav{
+    padding-bottom: 1em;
+}
